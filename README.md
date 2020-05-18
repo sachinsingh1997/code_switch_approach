@@ -1,3 +1,4 @@
+## Introduction ##
 - Implemented a deep learning model (a BILSTM tagger) to detect code switching (language mixture) and return both a list of tokens and a list with one language label per token.
 - To simplify our work was focussed on English and Spanish, so we were only needed to return for each token either 'en', 'es' or 'other'.
 
